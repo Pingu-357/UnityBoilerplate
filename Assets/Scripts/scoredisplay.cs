@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class scoredisplay : MonoBehaviour
 {
     public Text displayField;
-
+// im crine bruh
     public ScoreManager displayedscore;
 
     void Update()
